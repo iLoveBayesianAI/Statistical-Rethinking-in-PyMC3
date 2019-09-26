@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iLoveBayesianAI/Statistical-Rethinking-in-PyMC3/master)
+
 # PyMC3 Resources
 PyMC3 educational resources, including PyMC3 port of books (original models in STAN/BUGS/JAGS etc,.), PyMC3 talk slides, case studies, and other resources. 
 
